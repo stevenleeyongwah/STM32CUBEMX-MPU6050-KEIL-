@@ -3,3 +3,4 @@ https://www.youtube.com/watch?v=UJCQSFTMZZk&lc=z23xszxiysrzz1sg004t1aokgrjqolbws
 Above is a youtube link shows how MPU6050 work with stm32 on LCD
 HAL library, Stm32f103c8t6, STM32cubeMX, Keil u vision are used.
 The program is to display pitch and roll angle using MPU6050 on LCD screen.
+To access the code with Keil U Vision,  click MDK-ARM, click MPU6050, look for main.c file for the code.
